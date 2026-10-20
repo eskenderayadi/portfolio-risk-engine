@@ -1,0 +1,21 @@
+{
+  "kind": "yahoo_finance",
+  "source": "Yahoo Finance via yfinance",
+  "price_field": "Adjusted Close (Close avec auto_adjust=True)",
+  "start_date": "2007-04-10",
+  "end_date": "2026-10-20",
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "SPY",
+    "TLT",
+    "IEF",
+    "BND",
+    "GLD",
+    "SLV",
+    "VNQ"
+  ],
+  "note": "Calendrier aligné et valeurs manquantes intermédiaires propagées vers l'avant."
+}

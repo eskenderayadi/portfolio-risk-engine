@@ -1,0 +1,9 @@
+streamlit>=1.40,<2.0
+pandas>=2.1,<4.0
+numpy>=1.26,<3.0
+scipy>=1.11,<2.0
+yfinance>=0.2.40
+plotly>=5.20,<7.0
+jupyter>=1.0
+ipykernel>=6.29
+reportlab>=4.0,<5.0
